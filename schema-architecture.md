@@ -46,10 +46,3 @@ The Smart Clinic Management System is designed using a **three-tier architecture
 - **Version Control:** GitHub
 
 ---
-
-## ✅ Submission Checklist:
-- [x] Created `schema-architecture.md`
-- [x] Described the architecture in your own words
-- [x] Listed step-by-step request/response flow
-- [x] Committed with message: `"Added architecture design for Smart Clinic app"`
-- [x] Pushed to GitHub repository `java-database-capstone`
